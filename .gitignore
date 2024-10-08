@@ -1,0 +1,15 @@
+# Ignore venv
+venv/
+.env
+
+# Ignore cache
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore db
+*.db
+
+# Ignore test reports (if you don't want to upload test reports)
+# reports/
