@@ -9,8 +9,7 @@ This project is a demonstration of testing skills for the ITRP - Junior Tester p
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/banking_app.git
-cd banking_app
+git clone https://github.com/armesha/demo-bank-tests.git
 ```
 
 ### 2. Setup Virtual Environment
